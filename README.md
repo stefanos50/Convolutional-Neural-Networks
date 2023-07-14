@@ -1,1 +1,1 @@
-# Convolutional-Neural-Networks
+A PyTorch implementation of Convolutional Neural Networks for Image Recognition achieving 86% accuracy on [Cifar-10 dataset](https://www.cs.toronto.edu/~kriz/cifar.html) after data augmentation. Mixed Precision training is also implemented for utilizing Tensor Cores on newer GPUs for faster training and less memory usage if the network parameters are sufficient.
